@@ -1,6 +1,6 @@
 EmarooCustomActions
 ===================
-Custom actions for Emaroo ([http://roland-weigelt.de/emaroo]()), the free utility for browsing the most recently used lists of tools and applications like Visual Studio, Word, Excel, PowerPoint and more.
+Custom actions for [Emaroo](http://roland-weigelt.de/emaroo), the free utility for browsing the most recently used lists of tools and applications like Visual Studio, Word, Excel, PowerPoint and more.
 
 What is a custom action?
 ------------------------
@@ -8,12 +8,8 @@ What is a custom action?
 How do I use one of the custom actions in this repository?
 ----------------------------------------------------------
 
-* Select the URI of the custom action you want to use and copy it to the clipboard.
-* Start Emaroo, open the Settings tab.
-* In the "Applications" list, select the tool/application you want to add the custom action to.
-* In the "Custom Actions for ..." list, press the "Import Custom Action" icon.
-* On the "Open File" dialog, paste the URI you copied before.
-* Click the "Open" button
+* _Either_ download/clone this repository and open the `.action.json` file for the custom action(s) you want from the `actions` folder
+* _Or_ go to [the list of custom actions](Actions.md) and follow the instructions on the page.
 
 How do I write my own custom action?
 ------------------------------------
