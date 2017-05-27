@@ -1,0 +1,8 @@
+{
+  "id":"3f71d315-912b-489a-b653-79e341c1be08",
+  "timestamp":"635869998844039557",
+  "displayName":"Developer CMD",
+  "executablePath":"%comspec%",
+  "arguments":"\/k \"C:\\Program Files (x86)\\Microsoft Visual Studio 10.0\\VC\\vcvarsall.bat\" x86",
+  "workingDirectory":"$(DirPath)"
+}

@@ -1,0 +1,9 @@
+{
+  "id":"a2cb27a2-9f38-42fa-81cd-36fc113ba450",
+  "timestamp":"636119584843345334",
+  "displayName":"Developer CMD",
+  "executablePath":"%comspec%",
+  "arguments":"\/k \"cd \/d \"$(DirPath)\" & title Developer Command Prompt for VS2015 & \"C:\\Program Files (x86)\\Microsoft Visual Studio 14.0\\Common7\\Tools\\VsDevCmd.bat\"\"",
+  "workingDirectory":"$(DirPath)",
+  "runAsAdministrator":true
+}

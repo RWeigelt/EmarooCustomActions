@@ -1,0 +1,8 @@
+{
+  "id":"f658816c-e3f3-4a89-8955-d15cd313ebee",
+  "timestamp":"635993773122238379",
+  "displayName":"Search in FileLocator",
+  "executablePath":"C:\\Program Files\\Mythicsoft\\FileLocator Lite\\FileLocatorLite.exe",
+  "arguments":"-d \"$(DirPath)\\\" -c \"\" -f *.*",
+  "workingDirectory":"$(DirPath)"
+}

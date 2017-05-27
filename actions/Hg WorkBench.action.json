@@ -1,0 +1,8 @@
+{
+  "id":"046522a3-f00c-4655-b551-25cdc73e3b13",
+  "timestamp":"635869998844039557",
+  "displayName":"Hg WorkBench",
+  "executablePath":"C:\\Program Files\\TortoiseHg\\thgw.exe",
+  "arguments":"-R \"$(DirPath)\"",
+  "workingDirectory":"$(DirPath)"
+}
