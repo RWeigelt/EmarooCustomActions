@@ -13,7 +13,7 @@ How do I use one of the custom actions in this repository?
 ----------------------------------------------------------
 
 * _Either_ download/clone this repository and open the `.action.json` file for the custom action(s) you want from the `actions` folder
-* _Or_ go to **[the list of custom actions](actions/Actions.md)** and follow the instructions on the page.
+* _Or_ go to **[the list of custom actions](actions/README.md)** and follow the instructions on the page.
 
 How do I write my own custom action?
 ------------------------------------
