@@ -1,6 +1,0 @@
-{
-  "id":"e2a1a337-6675-4b09-987d-f3727598b1b2",
-  "timestamp":"636046820686912864",
-  "displayName":"Developer CMD",
-  "executablePath":"%comspec%",
-  "arguments":"\/k \"title Developer Command Prompt for VS2012 & \"C:\\Program Files (x86)\\Microsoft Visual Studio 11.0\\Common7\\Tools\\VsDevCmd.bat\"","workingDirectory":"$(DirPath)"}

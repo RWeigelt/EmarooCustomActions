@@ -1,0 +1,9 @@
+
+  "id":"1c03c8a5-60f9-4506-847c-ed651567b0fc",
+  "timestamp":"636317749214897859",
+  "displayName":"Developer CMD",
+  "executablePath":"%comspec%",
+  "arguments":"\/k \"title Developer Command Prompt for VS2013 & \"$(ExeDirPath)..\\Tools\\VsDevCmd.bat\"\"",
+  "workingDirectory":"$(DirPath)",
+  "supportedItemKind":"any"
+}
