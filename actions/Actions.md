@@ -13,28 +13,28 @@ Visual Studio
 
 ### Developer CMD (2015)
 ```
-https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/actions/visualStudio/TODO.action.json
+https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/actions/visualStudio/Developer%20CMD%20(2015).action.json
 ```
 * Purpose: Opens the developer commandline for Visual Studio 2015.
 * Author: @RWeigelt
 
 ### Developer CMD (2013)
 ```
-https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/actions/visualStudio/TODO.action.json
+https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/actions/visualStudio/Developer%20CMD%20(2013).action.json
 ```
 * Purpose: Opens the developer commandline for Visual Studio 2015.
 * Author: @RWeigelt
 
 ### Developer CMD (2012)
 ```
-https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/actions/visualStudio/TODO.action.json
+https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/actions/visualStudio/Developer%20CMD%20(2012).action.json
 ```
 * Purpose: Opens the developer commandline for Visual Studio 2015.
 * Author: @RWeigelt
 
 ### Developer CMD (2010)
 ```
-https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/actions/visualStudio/TODO.action.json
+https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/actions/visualStudio/Developer%20CMD%20(2010).action.json
 ```
 * Purpose: Opens the developer commandline for Visual Studio 2015.
 * Author: @RWeigelt
