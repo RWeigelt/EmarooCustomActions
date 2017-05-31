@@ -34,4 +34,4 @@ How do I contribute to the list of custom actions?
 If you have a custom action that may be of interest to others,
 
 * _either_ create a pull request
-* _or_ send me the JSON file for the custom action by email (see my profile @RWeigelt)
+* _or_ send me the JSON file for the custom action via email (see the footer of the [Emaroo website](http://www.roland-weigelt.de/emaroo/))
