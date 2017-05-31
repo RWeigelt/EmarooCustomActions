@@ -1,0 +1,9 @@
+{
+  "id":"a2cb27a2-9f38-42fa-81cd-36fc113ba450",
+  "timestamp":"636318453379664169",
+  "displayName":"Developer CMD",
+  "executablePath":"%comspec%",
+  "arguments":"\/k \"title Developer Command Prompt for VS2017 & \"$(ExeDirPath)..\\Tools\\VsDevCmd.bat\"\"",
+  "workingDirectory":"$(DirPath)",
+  "supportedItemKind":"any"
+}

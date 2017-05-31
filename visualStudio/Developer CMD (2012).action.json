@@ -3,5 +3,7 @@
   "timestamp":"636046820686912864",
   "displayName":"Developer CMD",
   "executablePath":"%comspec%",
-  "arguments":"\/k \"title Developer Command Prompt for VS2012 & \"$(ExeDirPath)..\\Tools\\VsDevCmd.bat\"","workingDirectory":"$(DirPath)"
+  "arguments":"\/k \"title Developer Command Prompt for VS2012 & \"$(ExeDirPath)..\\Tools\\VsDevCmd.bat\"",
+  "workingDirectory":"$(DirPath)",
+  "supportedItemKind":"any"
 }
