@@ -1,25 +1,41 @@
-EmarooCustomActions
-===================
-Custom actions for [Emaroo](http://roland-weigelt.de/emaroo), the free utility for browsing the most recently used lists of tools and applications like Visual Studio, Word, Excel, PowerPoint and more.
+Custom Actions for Emaroo
+=========================
 
-What is a custom action?
-------------------------
+* Copy the link URI of the custom action you want to use to the clipboard.
+* Start Emaroo, open the Settings tab.
+* In the "Applications" list, select the tool/application you want to add the custom action to.
+* In the "Custom Actions for ..." list, press the "Import Custom Action" icon.
+* On the "Open File" dialog, paste the URI you copied before.
+* Click the "Open" button
 
-A custom action is call to an executable of your choice, with information about the currently selected file or directory.
+**BEFORE RUNNING A CUSTOM ACTION, ALWAYS REVIEW WHAT IT WILL DO!!**
 
-You execute a custom action by clicking one of the buttons at the bottom of the list of most recently used item, pressing a Ctrl+_number_ hotkey or opening the context menu on a list item.
+[Questions? The FAQ is here to help!](FAQ.md)
 
-How do I use one of the custom actions in this repository?
-----------------------------------------------------------
+---
 
-* _Either_ download/clone this repository and open the `.action.json` file for the custom action(s) you want from the `actions` folder
-* _Or_ go to **[the list of custom actions](actions/README.md)** and follow the instructions on the page.
+Visual Studio
+-------------
 
-How do I write my own custom action?
-------------------------------------
+### Developer Command Line
 
-* In Emaroo, open the Settings tab
-* Select a tool/application in the list on the left
-* Click the "+ Add New" button (or press `Ctrl+N`)
-* Specify name, executable, arguments, etc.
-* The macros work the same way as those in the custom build steps in Visual Studio (i.e. directory macros end on a backslash)
+Opens the developer commandline for Visual Studio (@RWeigelt)
+
+* Visual Studio 2017 - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/visualStudio/Developer%20CMD%20(2017).action.json)
+* Visual Studio 2015 - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/visualStudio/Developer%20CMD%20(2015).action.json)
+* Visual Studio 2013 - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/visualStudio/Developer%20CMD%20(2013).action.json)
+* Visual Studio 2012 - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/visualStudio/Developer%20CMD%20(2012).action.json)
+* Visual Studio 2010 - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/visualStudio/Developer%20CMD%20(2010).action.json)
+
+**Note:** The custom actions use the `$(ExeDirPath)` macro to honor the installation path of Visual Studio. If you want to use one of these custom actions on another application/tool's MRU list, you have to use an absolute path matching your system.
+
+---
+
+Developer Tools
+---------------
+
+### Hg Workbench - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/misc/Hg%20WorkBench.action.json)
+
+Opens the Hg Workbench of [TortoiseHg](https://tortoisehg.bitbucket.io/) in the current directory (@RWeigelt)
+
+---
