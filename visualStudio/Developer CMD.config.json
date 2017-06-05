@@ -1,0 +1,59 @@
+{
+  "hiddenExecutables":[
+  ],
+  "executables":[
+    {
+      "id":"vs2017com",
+      "displayName":"Visual Studio Community 2017",
+      "customActions":[
+        {
+          "id":"a2cb27a2-9f38-42fa-81cd-36fc113ba450",
+          "timestamp":"636318453379664169",
+          "displayName":"Developer CMD",
+          "executablePath":"%comspec%",
+          "arguments":"\/k \"title Developer Command Prompt for VS2017 & \"$(ExeDirPath)..\\Tools\\VsDevCmd.bat\"\"",
+          "workingDirectory":"$(DirPath)",
+          "supportedItemKind":"any"
+        }
+      ]
+    },
+    {
+      "id":"vs2015",
+      "displayName":"Visual Studio 2015",
+      "customActions":[
+        {
+          "id":"a2cb27a2-9f38-42fa-81cd-36fc113ba450",
+          "timestamp":"636317682455735108",
+          "displayName":"Developer CMD",
+          "executablePath":"%comspec%",
+          "arguments":"\/k \"title Developer Command Prompt for VS2015 & \"$(ExeDirPath)..\\Tools\\VsDevCmd.bat\"\"",
+          "workingDirectory":"$(DirPath)",
+          "supportedItemKind":"any"
+        }
+      ]
+    },
+    {
+      "id":"vs2013",
+      "displayName":"Visual Studio 2013",
+      "customActions":[
+        {
+          "id":"1c03c8a5-60f9-4506-847c-ed651567b0fc",
+          "timestamp":"636317749214897859",
+          "displayName":"Developer CMD",
+          "executablePath":"%comspec%",
+          "arguments":"\/k \"title Developer Command Prompt for VS2013 & \"$(ExeDirPath)..\\Tools\\VsDevCmd.bat\"\"",
+          "workingDirectory":"$(DirPath)",
+          "supportedItemKind":"any"
+        }
+      ]
+    },
+    {
+      "id":"vs2012",
+      "displayName":"Visual Studio 2012",
+      "customActions":[
+        {
+          "id":"e2a1a337-6675-4b09-987d-f3727598b1b2",
+          "timestamp":"636046820686912864",
+          "displayName":"Developer CMD",
+          "executablePath":"%comspec%",
+          "arguments":"\/k \"title Developer Command Prompt for VS2012 & \"$(ExeDirPath)..\\Tools\\VsDevCmd.bat\"","workingDirectory":"$(DirPath)","supportedItemKind":"any"}]},{"id":"vs2010","displayName":"Visual Studio 2010","customActions":[{"id":"3f71d315-912b-489a-b653-79e341c1be08","timestamp":"636317770091625601","displayName":"Developer CMD","executablePath":"%comspec%","arguments":"\/k \"title Visual Studio Command Prompt (2010) & \"$(ExeDirPath)..\\..\\VC\\vcvarsall.bat\"\" x86","workingDirectory":"$(DirPath)","supportedItemKind":"any"}]}]}
