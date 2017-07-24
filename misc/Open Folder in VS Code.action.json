@@ -1,0 +1,8 @@
+{
+  "id":"bfcd4896-4766-4715-814c-c01ee41d3b08",
+  "timestamp":"636365230222484331",
+  "displayName":"Open Folder in VS Code",
+  "executablePath":"C:\\Program Files (x86)\\Microsoft VS Code\\Code.exe",
+  "arguments":"\"$(DirPath)\"",
+  "supportedItemKind":"any"
+}

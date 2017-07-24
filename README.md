@@ -45,8 +45,16 @@ Opens the developer commandline for Visual Studio (@RWeigelt)
 
 ---
 
-Developer Tools
----------------
+Misc Developer Stuff
+--------------------
+
+### Open Folder in VS Code - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/misc/Open%20Folder%20in%20VS%20Code.action.json)
+
+Opens the current directory in Visual Studio Code (@RWeigelt)
+
+### Open README.md - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/misc/README.md.action.json)
+
+If the current directory contains a `README.md` file, this custom action will open it in the default editor for `.md` files (@RWeigelt)
 
 ### Hg Workbench - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/misc/Hg%20WorkBench.action.json)
 
