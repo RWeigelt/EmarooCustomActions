@@ -55,11 +55,11 @@ Misc Developer Stuff
 
 Opens the current directory in Visual Studio Code (@RWeigelt)
 
-### Git Bash here - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/misc/GitBashHere.action.json)
+### Git Bash here - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/git/GitBashHere.action.json)
 
 Opens a Git Bash in the directory of the selected list item (@RWeigelt)
 
-### Git GUI here - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/misc/GitGuiHere.action.json)
+### Git GUI here - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/git/GitGuiHere.action.json)
 
 Opens the Git GUI  in the directory of the selected list item (@RWeigelt)
 
