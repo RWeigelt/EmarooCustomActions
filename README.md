@@ -1,7 +1,10 @@
 Custom Actions for Emaroo
 =========================
 
-### To import an individual custom action...
+Getting started
+---------------
+
+### To import an individual custom action
 
 * Copy the link URI of the custom action you want to use to the clipboard.
 * Start Emaroo, open the Settings tab ( ![](_images/ConfigTabIcon.png) ).
@@ -17,7 +20,7 @@ Custom Actions for Emaroo
 * On the "Open File" dialog, paste the URI you copied before, click the "Open" button.
 * In the import dialog, decide what you want to import, then click the "Import" button.
 
-**BEFORE RUNNING A CUSTOM ACTION, ALWAYS REVIEW WHAT IT WILL DO!!**
+**Before running an imported custom action you don't know, always review what it will do!!**
 
 [Questions? The FAQ is here to help!](FAQ.md)
 
@@ -51,6 +54,14 @@ Misc Developer Stuff
 ### Open Folder in VS Code - [**x86**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/misc/Open%20Folder%20in%20VS%20Code%20(x86).action.json)/[**x64**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/misc/Open%20Folder%20in%20VS%20Code%20(x64).action.json)
 
 Opens the current directory in Visual Studio Code (@RWeigelt)
+
+### Git Bash here - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/misc/GitBashHere.action.json)
+
+Opens a Git Bash in the directory of the selected list item (@RWeigelt)
+
+### Git GUI here - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/misc/GitGuiHere.action.json)
+
+Opens the Git GUI  in the directory of the selected list item (@RWeigelt)
 
 ### Open README.md - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/misc/README.md.action.json)
 

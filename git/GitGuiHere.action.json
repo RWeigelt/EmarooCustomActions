@@ -1,0 +1,8 @@
+{
+  "id":"2bb044a3-e147-4c43-a0cc-b46155f48a3e",
+  "timestamp":"636568314960239140",
+  "displayName":"Git GUI here",
+  "executablePath":"C:\\Program Files\\Git\\cmd\\git-gui.exe",
+  "workingDirectory":"$(DirPath)",
+  "supportedItemKind":"any"
+}

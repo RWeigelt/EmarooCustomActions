@@ -1,0 +1,8 @@
+{
+  "id":"5ce4370c-c31c-455a-a6e2-caa2d0f783a6",
+  "timestamp":"636568314212176574",
+  "displayName":"Git Bash here",
+  "executablePath":"C:\\Program Files\\Git\\git-bash.exe",
+  "workingDirectory":"$(DirPath)",
+  "supportedItemKind":"any"
+}
