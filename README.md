@@ -63,10 +63,6 @@ Opens a Git Bash in the directory of the selected list item (@RWeigelt)
 
 Opens the Git GUI  in the directory of the selected list item (@RWeigelt)
 
-### Open README.md - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/misc/README.md.action.json)
-
-Opens the `README.md` file (if it exists) in the selected directory it in the default editor for `.md` files (@RWeigelt)
-
 ### Hg Workbench - [**Link**](https://raw.githubusercontent.com/RWeigelt/EmarooCustomActions/master/misc/Hg%20WorkBench.action.json)
 
 Opens the Hg Workbench of [TortoiseHg](https://tortoisehg.bitbucket.io/) in the current directory (@RWeigelt)
