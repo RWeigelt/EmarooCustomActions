@@ -1,0 +1,11 @@
+{
+  "id":"d72e1ec3-4adb-47ef-8350-0f152a553b3c",
+  "timestamp":"636639565001480473",
+  "displayName":"Send mail",
+  "executablePath":"$(ExeDirPath(word))OUTLOOK.EXE",
+  "arguments":"\/recycle \/a \"$(FilePath)\" \/m \"&subject=$(FileName)\"",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Send mail",
+  "tooltipDescription":"Attach this file to a new mail in Outlook"
+}

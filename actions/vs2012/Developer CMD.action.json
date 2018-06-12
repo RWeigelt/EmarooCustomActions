@@ -1,0 +1,6 @@
+{
+  "id":"e2a1a337-6675-4b09-987d-f3727598b1b2",
+  "timestamp":"636639153445371615",
+  "displayName":"Developer CMD",
+  "executablePath":"%comspec%",
+  "arguments":"\/k \"title Developer Command Prompt for VS2012 & \"$(ExeDirPath(vs2012))..\\Tools\\VsDevCmd.bat\"","workingDirectory":"$(DirPath)","supportedItemKind":"any","minVersion":"4","tooltipTitle":"Developer CMD","tooltipDescription":"Opens the developer command prompt\u000d\u000afor Visual Studio 2012"}

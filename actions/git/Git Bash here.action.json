@@ -1,0 +1,11 @@
+{
+  "id":"5ce4370c-c31c-455a-a6e2-caa2d0f783a6",
+  "timestamp":"636643446463890240",
+  "displayName":"Git Bash here",
+  "executablePath":"C:\\Program Files\\Git\\git-bash.exe",
+  "workingDirectory":"$(DirPath)",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Git Bash here",
+  "tooltipDescription":"Open a Git Bash window for the selected folder"
+}

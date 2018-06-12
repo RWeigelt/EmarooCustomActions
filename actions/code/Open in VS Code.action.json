@@ -1,0 +1,11 @@
+{
+  "id":"5094d620-9cb3-4fd1-a2ea-5dbaf6b6ebf1",
+  "timestamp":"636643485391968428",
+  "displayName":"Open in VS Code",
+  "executablePath":"$(ExeFilePath(code))",
+  "arguments":"\"$(FileOrDirPath)\"",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Open in VS Code",
+  "tooltipDescription":"Open the selected file or folder in Visual Studio Code."
+}

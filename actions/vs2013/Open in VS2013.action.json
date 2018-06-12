@@ -1,0 +1,11 @@
+{
+  "id":"3491b02d-8479-494d-ae1c-ca868e951450",
+  "timestamp":"636639161779036814",
+  "displayName":"Open in VS2013",
+  "executablePath":"$(ExeFilePath(vs2013))",
+  "arguments":"\"$(FilePath)\"",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Open in VS2013",
+  "tooltipDescription":"Open in the file in Visual Studio 2013"
+}

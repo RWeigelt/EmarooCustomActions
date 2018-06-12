@@ -1,0 +1,11 @@
+{
+  "id":"3741fbc1-1b45-4861-a6ae-890faa6bd237",
+  "timestamp":"636639162301999502",
+  "displayName":"Open in VS2015",
+  "executablePath":"$(ExeFilePath(vs2015))",
+  "arguments":"\"$(FilePath)\"",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Open in VS2015",
+  "tooltipDescription":"Open in the file in Visual Studio 2015"
+}

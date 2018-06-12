@@ -1,0 +1,12 @@
+{
+  "id":"1c03c8a5-60f9-4506-847c-ed651567b0fc",
+  "timestamp":"636639152897792991",
+  "displayName":"Developer CMD",
+  "executablePath":"%comspec%",
+  "arguments":"\/k \"title Developer Command Prompt for VS2013 & \"$(ExeDirPath(vs2013))..\\Tools\\VsDevCmd.bat\"\"",
+  "workingDirectory":"$(DirPath)",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Developer CMD",
+  "tooltipDescription":"Opens the developer command prompt\u000d\u000afor Visual Studio 2013"
+}

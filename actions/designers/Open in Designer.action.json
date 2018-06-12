@@ -1,0 +1,11 @@
+{
+  "id":"663d6aa9-5bdd-4b01-a903-3a4ead02d4f7",
+  "timestamp":"636643331050889967",
+  "displayName":"Open in Designer",
+  "executablePath":"$(ExeDirPath(affinityDesiger))",
+  "arguments":"\"$(FilePath)\"",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Open in Designer",
+  "tooltipDescription":"Open the file in Affinity Designer"
+}

@@ -1,0 +1,11 @@
+{
+  "id":"31b69ed4-80a2-4650-ada3-470aa7e0dc75",
+  "timestamp":"636643330530797039",
+  "displayName":"Open in Photo",
+  "executablePath":"$(ExeFilePath(affinityPhoto))",
+  "arguments":"\"$(FilePath)\"",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Open in Photo",
+  "tooltipDescription":"Open the file in Affinity Photo"
+}

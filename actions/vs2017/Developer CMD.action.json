@@ -1,0 +1,12 @@
+{
+  "id":"a2cb27a2-9f38-42fa-81cd-36fc113ba450",
+  "timestamp":"636639151370448655",
+  "displayName":"Developer CMD",
+  "executablePath":"%comspec%",
+  "arguments":"\/k \"title Developer Command Prompt for VS2017 & \"$(ExeDirPath(vs2017))..\\Tools\\VsDevCmd.bat\"\"",
+  "workingDirectory":"$(DirPath)",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Developer CMD",
+  "tooltipDescription":"Opens the developer command prompt\u000d\u000afor Visual Studio 2017"
+}

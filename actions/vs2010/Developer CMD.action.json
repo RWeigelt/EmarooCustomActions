@@ -1,0 +1,12 @@
+{
+  "id":"3f71d315-912b-489a-b653-79e341c1be08",
+  "timestamp":"636639154057730154",
+  "displayName":"Developer CMD",
+  "executablePath":"%comspec%",
+  "arguments":"\/k \"title Visual Studio Command Prompt (2010) & \"$(ExeDirPath)..\\..\\VC\\vcvarsall.bat\"\" x86",
+  "workingDirectory":"$(DirPath)",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Developer CMD",
+  "tooltipDescription":"Opens the developer command prompt\u000d\u000afor Visual Studio 2010"
+}

@@ -1,0 +1,11 @@
+{
+  "id":"20ed78da-d828-4e9a-8752-31f2a82d36c3",
+  "timestamp":"636643327701617744",
+  "displayName":"Open in Photoshop",
+  "executablePath":"$(ExeFilePath(photoshop))",
+  "arguments":"\"$(FilePath)\"",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Open in Photoshop",
+  "tooltipDescription":"Open the file in Adobe Photoshop"
+}

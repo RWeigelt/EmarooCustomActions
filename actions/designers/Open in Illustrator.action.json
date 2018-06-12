@@ -1,0 +1,11 @@
+{
+  "id":"c64beb24-725c-4b8e-aaa9-907cf55ab1d1",
+  "timestamp":"636643329219930368",
+  "displayName":"Open in Illustrator",
+  "executablePath":"$(ExeFilePath(illustrator))",
+  "arguments":"\"$(FilePath)\"",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Open in Illustrator",
+  "tooltipDescription":"Open the file in Adobe Illustrator"
+}

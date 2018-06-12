@@ -1,0 +1,11 @@
+{
+  "id":"0d852166-c18b-4a70-9d4e-97ac1cf3c59c",
+  "timestamp":"636639160376362632",
+  "displayName":"Open in VS2010",
+  "executablePath":"$(ExeFilePath(vs2010))",
+  "arguments":"\"$(FilePath)\"",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Open in VS2010",
+  "tooltipDescription":"Open the file in Visual Studio 2010"
+}

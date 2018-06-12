@@ -1,5 +1,6 @@
 FAQ
 ===
+(Emaroo 3.x user? The old FAQ [has moved](v3/FAQ.md).)
 
 What is Emaroo?
 ---------------
@@ -9,7 +10,7 @@ What is Emaroo?
 What is a custom action?
 ------------------------
 
-A custom action is call to an executable of your choice, with information about the currently selected file or directory.
+A custom action calls an executable of your choice, with information about the currently selected file or directory.
 
 You execute a custom action by clicking one of the buttons at the bottom of the list of most recently used item, pressing a Ctrl+_number_ hotkey or opening the context menu on a list item.
 

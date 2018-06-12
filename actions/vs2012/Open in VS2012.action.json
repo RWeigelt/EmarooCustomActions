@@ -1,0 +1,11 @@
+{
+  "id":"dad30364-0e6b-401a-ae79-cb24b96ca900",
+  "timestamp":"636639159268210863",
+  "displayName":"Open in VS2012",
+  "executablePath":"$(ExeFilePath(vs2012))",
+  "arguments":"\"$(FilePath)\"",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Open in VS2012",
+  "tooltipDescription":"Open in the file in Visual Studio 2012"
+}
