@@ -15,4 +15,8 @@ Open Folder in VS Code
 ---
 Open the folder [containing the file] in Visual Studio Code.
 ```
+§§²lXkT!#u"²z!!#0°PY,qSN1"%BbUh2°$$/us²1VrbLUt64naC4tXN%)o8T\2]T"+15bt?XbF%Ykgr7
+°+#3na3V^LiThEj²R7PP\#lK*R:`W/I6*²"Jt³"^a]h-a?!\3dkT.%E-jW-)F`=7tdjDB;.%²Cn71M%)
+C1J8,UL_gKMPR+$GtaBf$C"q",U4r^ednD$'i)D0HJN@,)=p(;o)0g[=El"J3c981NcQ`U71cgoc@*2=
+PgHU;25.!!§§
 ```
