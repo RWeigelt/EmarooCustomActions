@@ -10,7 +10,7 @@ Custom actions are defined per-application. They appear as buttons below the cor
 Sharing Custom Actions
 ---
 
-Starting with Emaroo 4, custom actions can be shared by copying/pasting a heavily compressed text string that you can put on an HTML page, insert into an email, or maybe even post on Facebook ;-).
+Starting with Emaroo 4, custom actions can be shared by copying/pasting a text string that you can put on an HTML page, insert into an email, or maybe even post on Facebook ;-).
 
 File-based import/export of individual custom actions (via `.action.json` files) is still supported and will continue to be in the future.
 
