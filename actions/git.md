@@ -5,18 +5,16 @@ Git Bash here
 ---
 Open a Git Bash window for the selected folder
 ```
-§§²lXkT!!iT*z!!#0°PY,qSN1"$rQ;D0XRf6kr'lWjmO]K*.KtQD[L;a°rkg)!-LkorNcGRQtDpf1Orm
-juL$mqL?q#)cSZ:V°ZPA;u^W0KLl'S°M%+Fl@])##pJlD"DjeMgMLP9/72HpCg'O^"ObI8+WTT2N?^V\
-DMV#t)0t[S?G,lU6QDp0:W+Z.KSo=_°5b(A,foBE²gB[!aZo/RgaD2m_*A;k$jL%G;]RYIlq_TEWm-6m
-dI?S]-pecA1FNO0³§§
+§§!F5[*J,l;DzzK6yn}|N|U1op[BMW+uMsNa5QD-fRa#}~TEgEV^I7O#-1^kHDi;°(*VI|84#6XX*4%b
+E{4A(+*Na;s,sUYLqQCjdDvmGd6aQ0oQ4Mek-|cHCVcXi:Z]BHkuh5|nt°3A]dkKiNMO-*{}apX+T=y^
+10ETC°i5lL^Qcm~jSi,kSgax1Xhv*§§
 ```
 
 Git GUI here
 ---
 Open the Git GUI for the selected folder
 ```
-§§²lXkT!!E°³z!!#0°PY,qSN1"$oaNX0G%du=ia$R0)c²?Np29eVHTssE57]b%?hol2uY#h(uT*EMHSc
-pRR/ptI2cDh)GT°Q³sP#YuWI(#SS1pTtST4J(0aqnY^XVVNM6=²19\*rUNrh5j³NZJN-*_ZnI#FP8+q5
--nUX1Kqu@i8g#³R9dlL°O³O9d8L$mQ8qr1\9Yhe5nu+[H.'Z+HNH81gRJ@GRXR6³t.YdY_8=L%sn²NOu
-$']^o('c@T3§§
+§§!F5[*J,l,?zzWILOqy9(%i]jd=5oFe$Zq9aIJ?DX{q7HY-nrr]°+(kbBV{4rBD_c%2(]hk(;$)iSY,
+5?m{Y~3;XQam}uIja8Hi6dhDX$v0yWn5id$-sCCr9{[;C]gk(#RVurc{qAew*Sv{e%1JND8G!aP4hu%o
+=k.X[oT|,[iAo~CQ6d-$t)Cs§§
 ```

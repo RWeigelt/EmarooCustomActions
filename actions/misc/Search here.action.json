@@ -1,0 +1,12 @@
+{
+  "id":"f658816c-e3f3-4a89-8955-d15cd313ebee",
+  "timestamp":"636645939743413389",
+  "displayName":"Search here",
+  "executablePath":"C:\\Program Files\\Mythicsoft\\FileLocator Lite\\FileLocatorLite.exe",
+  "arguments":"-d \"$(DirPath)\\\" -c \"\" -f *.*",
+  "workingDirectory":"$(DirPath)",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Search here",
+  "tooltipDescription":"Search the tree below the directory in FileLocator."
+}

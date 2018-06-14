@@ -5,18 +5,16 @@ Open in VS Code
 ---
 Open the file or folder in Visual Studio Code.
 ```
-§§²lXkT!"f53z!!#0°PY,qSN1"$rHHH[2qlRMFf.:Qi$/UDP7;@4hr=s²(%`klf^YQ"659Qo'g8!8u3X
-p1C!3!UVRCk8³$tU³]Qh,`IW5H!Z'i"Sq.`3TE%W"0`8:?IR,/;t:²^JJ[f9u.rh`[B7.0i!h:a2aQ$°
-"_°a-cikJ:\)X³!+XRNh³NE='_:J087ZM-8J(6\MZf']?h°$\FJ2%*NI]tX[J"]).c]X2a`6c5RH°1l1
-lRS_BcQJlg^js!;Gi#Z2§§
+§§!F5[*J,lSLzzLu3gFwFn!WUN+#EA3!cfF,OBqBmBlQyL53dBq_XXk0q,A?E6(DAY°bSUwx-[+l_7]H
+[bX:mVvako?V,#ODB-(3CV[!x|r1IC,q°+kYuoO8ffAcYjF}1!IE2(wa7[PAG82OMFDMi}$g9S](}o3#
+L°eZC2p]qvM°||N^(KuU^mCU0-F*-!!§§
 ```
 
 Open Folder in VS Code
 ---
 Open the folder [containing the file] in Visual Studio Code.
 ```
-§§²lXkT!#u"²z!!#0°PY,qSN1"%BbUh2°$$/us²1VrbLUt64naC4tXN%)o8T\2]T"+15bt?XbF%Ykgr7
-°+#3na3V^LiThEj²R7PP\#lK*R:`W/I6*²"Jt³"^a]h-a?!\3dkT.%E-jW-)F`=7tdjDB;.%²Cn71M%)
-C1J8,UL_gKMPR+$GtaBf$C"q",U4r^ednD$'i)D0HJN@,)=p(;o)0g[=El"J3c981NcQ`U71cgoc@*2=
-PgHU;25.!!§§
+§§!F5[*J,m%YzzW|,piAT[hKKvH49y#!{B8EQ:iMT8Z9$GLZKF+Iq[]9]}+{=4qUk8,Hj5]g°[?wW.Y,
+P$7$.qV2L8!]!6VDNqi%(Hbty!3wtXQUo1-LYO4XI_01°EN%{v!5Dq8o8;AKjYJ6E4+tEgCtDSBf;sSi
+lGm°;yPbO72Jh=Pk]{XMN*sX99;?:!!§§
 ```

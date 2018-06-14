@@ -6,19 +6,17 @@ Visual Studio 2017
 
 ### Open file or folder in Visual Studio 2017
 ```
-§§²lXkT!##A5z!!#0°PY,qSN1"$n_p-JkbOD(Nf)gT#F7up7`6$$³^T²ln1lNV!L)orLLSp)LhEb°?$j
-!e"8]°A[W2°sfhe@k(O8[A+:$NspV9n[OR;JrX³*7s(A7i-RYmg]F$!,#t(NGni^,Dr.[BonVQ[Zm_°d
-Um*^%j,9.E;X6i:Aj°AQ0VQTm)jp,Z%sQR7°js!blbcaMKPq.N/'\/HK%"HV+:M)uUSJg2JTh-\u8B-L
-($]ZN1%§§
+§§!F5[*J,l_Pzz~;d}~0$;%!rHC|XBIDEf,JhUrDTgN|;PUe7Sk[Ql0%XG}M|x$xZJ8iAOPuDjgD~.YK
+Jls4UTw9hCXsh3JdKwSrkXhrZ°QcQ;c|1bi|JMB81eRSWgHj^j!=QC7r{uol98f}7pG2J5°0=!#BEYEI
+A5$hl-Eqhr$xLL}y6#-T-]4T§§
 ```
 
 ### Developer Command Prompt
 ```
-§§²lXkT!,qr=z!!#0°PY,qSN1"%A8$L²DQU%b'7luK:l/59eE9^gG;Yd7J%=li5L0]+mlmf;OV@;ZS\a
-j³Wcd)*;E@oW°jeLH'2I\²=Ts+r]j)pMa!^llQ2VQu$+T6e54uaHu[g^PW'Z"sa[2b)KVRWngV='VT2"
-G_pY_-7T5³°YRb2oQq3"]q8k3$ih'UY!VDQ#K²*"Mk(6W5rSeBN:NImi^Wo5tD7k³JhLG%9"R3[U-!$2
-%,2rBZrI#(uPWLI.F]A_G²[e$9WIg6Q66n2`M'?.D²NA^Fr*fs:nkQN?j$[PZ]LA+;1oMrd(QT^t)p[I
-c_Rr%bhE0bgOiV*L@I§§
+§§!F5[*J,o0}zzWBMCcgtI^0QhGPx(3d}*9jw!+(g=C?Kc2GdQA*M7Gg85^-?ch|#OAOn]!1f°[65kxn
+?*|Z:Q3|WaEmRO,,Bw*?P)cJ:pGZp]n°C(K9$}°j3ytTVXxT1C$C[jlSl-XK}*)h|Sq_1Mdx8VB.2;qO
+°KcdV6X0?IaA;F3^°x25sjr(LPHn)SggO%1OHF$XPVmCFg$WGQO.q=U4M[0b}[k_n};_mpv$Z{D*T°To
+|C-8)s=8I5P5dG!!§§
 ```
 
 Visual Studio 2015
@@ -26,18 +24,17 @@ Visual Studio 2015
 
 ### Open file in Visual Studio 2015
 ```
-§§²lXkT!;QTpz!!#0°PY,qSN1"$pTig"(nbbLo4amo*³/qN7/-°_sJBGVX+N8E90°9VuaGJ9cb,Qd38!
-BDDPhq.+"#:B"/e"4gR7*°i"%Q![3#IVeoD9OH8(.]QK5mX\rd%D5bqNWFhnb\m`RSIe°u$J+°;°).X7
-E%4F3D°A`mC#I²rW`"lVY"AJk@SMDdZc]XD²UA95V[@[a%`"h+ed0F-W`VIG^(`[YX§§
+§§!F5[*J,kf6zzYh|dmW+2smEYy0A-aA;WGdjZqenQA2xxk98^4s!jlE*^ZrS)I$-9TidRogIt^Kqj?E
+dh;{$x9_JbYWxo[,[w-k+xgBqF;ENJY9A![}6e5Z|Hx|0V7[S*=JZMZvCneCD-PMmI~|-3k4S|Md_NO?
+i§§
 ```
 
 ### Developer Command Prompt
 ```
-§§²lXkT!,qr=z!!#0°PY,qSN1"%A8$L²DQU%b'7luK:l/59eE9^gG;Yd7J%=li5L0]+mlmf;OV@;ZS\a
-j³Wcd)*;E@oW°jeLH'2I\²=Ts+r]j)pMa!^llQ2VQu$+T6e54uaHu[g^PW'Z"sa[2b)KVRWngV='VT2"
-G_pY_-7T5³°YRb2oQq3"]q8jnqE\\b+i$`!F8M6QJg²?)WmebJY:LU°8UibG+N³²imbL`d;ZMmcalnCm
-\\"OT.7,.RKi8P"G+;hh4bO²h.-e./+R5@a0Kcf0WXd+;³A1Wt8Rlmg4,"q6lQtlb9`Zc8u=0X-G1k"3
-!cD0+$_)mJD°h@j`i.§§
+§§!F5[*J,o0}zzWBMCcgtI^0QhGPx(3d}*9j)ME,K-.Ml0ufxv74)P|J$]hxOy}Or_$DCVJ}nj]n0fM$
+{g9B$.j7|QA_Rd^iin6y6{073.%k^|wdP1]^d:2ZU-|BN~!G95^I-_vqeH6CUt:O2_?_q!8Q!A!9,{aC
+eosVcR6~?n9ne^b6DpIZ=WF+n°+IM70KXkBxN4w?fMXPw0=S=wTh,ilyT:O,+7O+.)!+l]5ZRf|LD|^v
+Ucp=;^A6W?A|o(!!§§
 ```
 
 Visual Studio 2013
@@ -45,18 +42,17 @@ Visual Studio 2013
 
 ### Open file in Visual Studio 2013
 ```
-§§²lXkT!;QTpz!!#0°PY,qSN1"$pT44^4"T6]k2p²knG*Ja1:hF$-p²)0³DJBYX]"hB("[eDlNq²q!aP
-B;I/#G,0nPl.3$s?iV2N!:O³G6R.:L+NgKn@cVeVm5[N+RGP²eoFjef%:e)SOXls8!gm@CO@"H,Rhd°%
-?Ij8DM"7X(q+u*Cd#-nhlPFh=*SpY_XSulVu'S²ToT=6gVY=°³$([/+p"2^.f1\!!§§
+§§!F5[*J,kf6zzNw.gGYAMOd-9FAM2ntk3r%prn)=ZK6qMt+DW%fIsSSD;51K*C7RiHyMUASnQgs]6j?
+YD;{CH:%m:xYf!XmKD$nBf}|W$#Loqp6[1:%Qn8FF;iaoZbnQTnc.6NmP%K%k8wj{[0sm}jCe_}y#q|J
+,§§
 ```
 
 ### Developer Command Prompt
 ```
-§§²lXkT!,qr=z!!#0°PY,qSN1"$ng"O°_?T$;%hMW3/A²`]A5b?7bka%O]-m6td1FpJd\aR'.LsZSdV2
-Wrl;U^OKL/6ksjQg³33HYj,,c8EmJ+7pfc:-EsRcDR,B2?Yghto'/85P[l:R5f2a@,t4\dMmg"3U!*R%
-1ln.':UY6³E_6CB(THF4(n[L;!s*?Q#k:pOY3]-9rm/FMcr[aZl"$OmGcK`b1k)(G?]p[KS3h-0b(E%E
-eIGhPfk1=7='e@rB²K!a*/DWM(Gu\H*bE-Y8D@'HXUFA-V[*UGD9sk³cr"ojjHeY²)@i.LK3Oe°1"0.V
-FAa?uf5Oj@;$K)mTG§§
+§§!F5[*J,o0}zzWXFj1E[q[RKL,gO1IxU_vg3Gf..hDo+Lw5OUrOtO_7Q5%WIn#9OJEtt[LWJ].5_LmB
+uE$ODLEnn2q°PyZ|1*j)SxG]H°uLIveKk::fS6=*G++HNdQC}.l=QPA!wd(.lIHBVXi2XBs4Npq(FDhT
+O$8OK}qxM1Oe?7q[a_c$$P#h(t8GC#(;g{c2E]-NAfI35p8fk0h^qqV(oj+*W2VG^3J!kP5nx6~Qi~Rg
+A4{]No#I4|.l$Y!!§§
 ```
 
 Visual Studio 2012
@@ -64,18 +60,17 @@ Visual Studio 2012
 
 ### Open file in Visual Studio 2012
 ```
-§§²lXkT!;QTpz!!#0°PY,qSN1"%CU1c,8Dh0PcQ@?,WTZiru(sqd*LaMV³K@L_hn8j[n0:[hPEmhYVH`
-²u9e;8?S²^J7o\"?=-CW0o$;k$qaBf(5fpWTA9_$\0[P)OQ(pVd6Rm@(6%HV_uH-41"5eQ5R=L)32Cds
-6\)UEZ=-r!l#qGqIsB*;k#(T#s1?Ng-%f1ielRh$AN$bTb%-Od6[h7VQ+leMB°+YU\Q§§
+§§!F5[*J,kf6zzRK(yNeieS~YsfQd°7vV[H+r]PJ,y°$}|Jb]!V9{36it9e=43J:MwgVEZlbW}QpB2j_
++,gwB^Xct*Pe1kc8dLq8BfZWm-g,2wd%pqDAsWmgM{yOa0HjmiyoaigTp:{NW-SHWLK.vafM.PoA1QRh
+u§§
 ```
 
 ### Developer Command Prompt
 ```
-§§²lXkT!,_f;z!!#0°PY,qSN1"%D;4'F+#GOCbRK#ipTZ+g-q/)dfL3DW[*,GKIWi_gU=Feq"#=²,gFV
-a%fe0[m-rlUD48Q0A!f^.9"@bm,u.O/mU3dB²;°*!$nnE°rSQXoS4°J4^W*JoFD=G"Qr]BEc)rtW?a)°
-'²9-2a2H,'S7\kA6.:EO0MT''°XY23W;cpmg.nbHIBp0ZR9\YSX-$*`!5t`7f.[raSoY[sgC/"4.H?TJ
-HIq_s140#QF-]\2\m[S!)9$gt8cTZIOBJ!3Z5^!kB°@?bsXmRV!Hb;+XSDOkcLgI7*eDc?Od?a²?qD³²
-/[M]CtCcl9@oFh°C"$§§
+§§!F5[*J,o-?zzNl|3SIk[~w8rca[:kL,8)Ib6(}I?WMJ%Nk-IHSEJ|F!GG4*vd$jRdIQ8^RaWK$F?Zn
+ZgL??W|u-yEmUR~l{WWCr6~KhORuYc6w5[SJjpd}8gf46H]qROF^3MA+sCDXSUA%q%n,OYN)°B6vj245
+28*F~G?X}VY?0-m,Z+R,t--g^l#Us~HDtbF-8.$b.jO$9fFD#1R4_C;+y1]bfD8V5)]Y^LNo+fm9lQB~
+oxcbopxv=[-wP3§§
 ```
 
 Visual Studio 2010
@@ -83,16 +78,15 @@ Visual Studio 2010
 
 ### Open file in Visual Studio 2010
 ```
-§§²lXkT!;6Bmz!!#0°PY,qSN1"$mlTOI/WD]LS8)U.°'Y3/cW)!²BN^b`%ZJr36_,ka=c`H4s^o@"?[0
-D:ARMNc`Z0X³Is1LQkQ8:³Z0'9gufnPC?R+!':%P31_'=EM4W5Q/7E`sfLnL0kH+K4°kThmmQ`^XlW6-
-²mfM1³gS³eHs=3.?X]d3W,NlduZGjkkpPMO+pb`dl(;K0D'^³PTaO°/K`23%ANm)²]-§§
+§§!F5[*J,k]3zzRY+fZ~5A8BhmtpIRnBgdPHFNmw*a=CvFH74Moyw61IErM=Vmbt:7{=#Y8XDTS|D:PA
+c,3{A1ZAyF~G~]y%8pv:V3C9$ND{(bOBMqp97=Gqx]#a*V$T(PKLTUPCNWQ2SXIjk?9,waXQiVRpj9t!
+!§§
 ```
 
 ### Developer Command Prompt
 ```
-§§²lXkT!,_f;z!!#0°PY,qSN1"$p\UJ\2`r/0,TCs[d!--hEma²?7Q³;S8³Af$mA.mTMKMT2fNOoX6q+
-B97b8_:G)eVcJ.³hU83J@:9Kf+iq)XqZQ°3³:SQ[M9*2)tfL³3\(B.Q]X@1U)?JIj7qpfUDkc.KX5mDZ
-t?'p9Za"+=uNWUU"hUd$W0jlD*EK3aU$;gk7u°;_I-^DbT(cNG8C0elN#T[1p=+9=R$1;pZGn0(8Ko"R
-u=H$8l#274sVTl\=#.NsapiDUh0@rb.S$VU"XL%,F\[I$QG3UWt²(9i2G?XZ5PQ.%b5!%3W8ea'O#N%'
-Gt]PU?FZ3W§§
+§§!F5[*J,ox=zzL%K$L5,I|xmj9Tl{Rh[7h59$QqXd}9Y~;M^!JWJNU(°gKh~SLL°oFg^lnr_2auw*MV
+;n]O}1AdJW!xBBSebcUZg1,S^!4Q*+L9Khd}°3d%8a,rKVDpwVLUi!K3*$M26eZylH)fjkh_yY9E-V=*
+uS#cFY3HAo([H0C{W,.BeCiXHVPaXnWLsuPOw9^H5}%Co![.RLmm2(XXvA?f.--7U~:5C:%OhTyUX;v?
+},{SxV,jZ§§
 ```
