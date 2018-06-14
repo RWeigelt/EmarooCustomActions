@@ -26,11 +26,10 @@ The custom actions are categorized by the executable that is _called_:
 How to Use
 ---
 As an example, here's a custom action that creates a new mail in Outlook and adds the current file as an attachment (read how it was done in "[How to Write Your own Custom Action](WriteYourOwn.md)"):
-  ```
-§§²lXkT!$qXGz!!#0°PY,qSN1"%COZ:³47"O0r9S#N@)-iIT)k/3RFj-nt_*^SIUe;l(_%-:G'S[,_C,
-lpZh6Mr*h^S\Z]/96DX:26]"_oqKgs0Atl_rXV\E\8AlP#7-`ZXN9N4t\h0;%UY`Y!g%k5EFr°U"1C_F
-;h6,\`f0,2S4$:@K³MSO3Rif)[8a@f'a[ARTsTq?ZcgNYQAE\l6PHdDspcil"G+9sChD)lC[F:\Ql\K6
-(3b,O1.HZgPSB78a5C[LV\hl:7/5!ufA\T=g76@uO2WaiLL40`V§§
+```
+§§!F5[*J,m1]zzYr^^u1xKwvI-6rj=lP}5A7qkrB|w(AO9,y3lagyKpe)efm%4SDV*gH+°wlT[|^i^Sg
+0{HMG^JV;GvLqWf]fVqk_O9vg)MHopIIP?xmhZZy|0h9=3-6q87B$)%r2W%UDdE26W*%q2g)NVXser^1
+P{n-gB8r5°Ny:KnO4#[q(lpwv-o6W.iH-!06EGAv,dv,%Mb6k]$0EP*,wIih;A§§
 ```
 * Select and copy the text for the custom action to the
   clipboard.
