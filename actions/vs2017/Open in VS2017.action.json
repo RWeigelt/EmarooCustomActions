@@ -1,9 +1,9 @@
 {
   "id":"184c99e1-e27c-43ec-9d80-e01d0af069a0",
-  "timestamp":"636639163947021379",
+  "timestamp":"636669220841870427",
   "displayName":"Open in VS2017",
   "executablePath":"$(ExeFilePath(vs2017))",
-  "arguments":"$(FileOrDirPath)\"$(FilePath)\"",
+  "arguments":"\"$(FileOrDirPath)\"",
   "supportedItemKind":"any",
   "minVersion":"4",
   "tooltipTitle":"Open in VS2017",

@@ -6,9 +6,9 @@ Visual Studio 2017
 
 ### Open file or folder in Visual Studio 2017
 ```
-§§!F5[*J,l_Pzz~;d}~0$;%!rHC|XBIDEf,JhUrDTgN|;PUe7Sk[Ql0%XG}M|x$xZJ8iAOPuDjgD~.YK
-Jls4UTw9hCXsh3JdKwSrkXhrZ°QcQ;c|1bi|JMB81eRSWgHj^j!=QC7r{uol98f}7pG2J5°0=!#BEYEI
-A5$hl-Eqhr$xLL}y6#-T-]4T§§
+§§!F5[*J,l|Ezz~;d}~0$;%!rHC|XBIDEf,JivjF=D_g=.t-86$_-ry)WuY(luBrN^lP!qS},Cy!fx3|
+SU(.5a+SF+KJH;6%tmHTm,C=ps2DT;Ln^yT°B°kmt_Gi_-;wvcEYw?}H7T}]bC[A6n*2Fb1b%Gj]3a9L
+})n4)WKPgGPFx_b1rm.E{#§§
 ```
 
 ### Developer Command Prompt
