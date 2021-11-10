@@ -1,6 +1,42 @@
 Custom Actions related to Visual Studio
 ===
 
+Visual Studio 2022
+---
+
+### Open file or folder in Visual Studio 2022
+```
+§§!F5[*J,l|EzzRL#I?S!x?*H=#+Hkx;2x(PlV3eVuhUI)s[c#IM76q°T)#;8m?H|0$l8_1^tF^=$1R:
+IaRy%[^kn6pRW$a5i;Zw^X4C|7b?GX]SZMh0iRXYl}P#?br-0rWtfCnn*eKl|um{]$;qLgOv41~76=aO
+mak#r2]^+Lc28a![K1bG5q§§
+```
+
+### Developer Command Prompt
+```
+§§!F5[*J,o0}zzP6Pxs^Mi}4H7-+}K[,kDgOHxW2MHopyD1_RDiNIjK|)f4F7N8KJs°poJu-9k,t}^]Y
+icW,do)g*PP]jEwQPe%^AB(}f;DIkVJ{1N?0xs2pcxWvVk;J9°{Q]IwpuF_WTTBJ#G-#41[~XL-?$EkL
+cSRWC*13%°N=){]nb5=b:d)W{]ODL|KpvG*,h!3)oFH%XX=xcA4-Zky0N;9IT2Lw1FW°xpW-pD3Ky%|L
+A~0R*Y;Oc,{B-r!!§§
+```
+
+Visual Studio 2019
+---
+
+### Open file or folder in Visual Studio 2019
+```
+§§!F5[*J,l|EzzKqdsb233^Tv#]q56bsF1~|q-HxNt]teSmEMN7$9hjcpuyM1ot$JiAcwNiwR^|7M(;G
+3sibvq]fwC=?65Yq[:-9UiNl4d.JK)sZUoOR;?7S+VHX6hjbqZ)-7)[!1Mo-f^CTeYZQ°{Rv4w?W3iB*
+ItH7AiGEg,5.xNGsY3|ycY§§
+```
+
+### Developer Command Prompt
+```
+§§!F5[*J,o0}zzWBMCcgtI^0QhGPx(3d}*9j*dh!VnKnQY!mY(]!|rw23JZ{$Li#iLjyvLE.;GM,!fnm
+T0bZ3Yc|jdw-jF6(0re6$q]VyNCNcK)TyAEj_OMaobiUQT2r*~6cK3$j]S}HU](HIo?t4a$2^I!?K?,P
+U4YOm}5W82+8bIJX|JWw1xR*;fghI}tZN9o6o3oWB3phyxap%ilwt{2VhVAGs^V5hDi2nl!wlB]+=ou5
+ACAQW:gt!8e^L*!!§§
+```
+
 Visual Studio 2017
 ---
 

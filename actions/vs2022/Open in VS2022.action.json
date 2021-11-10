@@ -1,0 +1,11 @@
+{
+  "id":"09a24a64-1e6c-4a52-a329-9e8441bc18c6",
+  "timestamp":"637721705971393408",
+  "displayName":"Open in VS2022",
+  "executablePath":"$(ExeFilePath(vs2022))",
+  "arguments":"\"$(FileOrDirPath)\"",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Open in VS2022",
+  "tooltipDescription":"Open in the file or folder in Visual Studio 2022"
+}

@@ -1,0 +1,12 @@
+{
+  "id":"b7632948-be01-4534-84fb-06cff6cd93ea",
+  "timestamp":"637721706840953186",
+  "displayName":"Developer CMD",
+  "executablePath":"%comspec%",
+  "arguments":"\/k \"title Developer Command Prompt for VS2022 & \"$(ExeDirPath(vs2022))..\\Tools\\VsDevCmd.bat\"\"",
+  "workingDirectory":"$(DirPath)",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Developer CMD",
+  "tooltipDescription":"Opens the developer command prompt\u000d\u000afor Visual Studio 2022"
+}

@@ -5,14 +5,12 @@ A custom action for [Emaroo](https://www.roland-weigelt.de/emaroo/) calls an exe
 
 Custom actions are defined per-application. They appear as buttons below the corresponding list of most recently used (MRU) items and as entries of the  item's context menu. If you prefer hotkeys, you can also run a custom action via <kbd>Ctrl</kbd>+_number_.
 
-(_The custom actions for Emaroo 3.x [have been moved below the `v3` folder](v3/README.md)_)
-
 Sharing Custom Actions
 ---
 
-Starting with Emaroo 4, custom actions can be shared by copying/pasting a text string that you can put on an HTML page, insert into an email, or maybe even post on Facebook ;-).
+Custom actions can be shared by copying/pasting a text string that you can put on an HTML page, insert into an email, or maybe even post on Facebook ;-).
 
-File-based import/export of individual custom actions (via `.action.json` files) is still supported and will continue to be in the future.
+You can also import/export individual custom actions to files (`*.action.json`).
 
 Ready-to-use Custom Actions
 ---

@@ -1,0 +1,11 @@
+{
+  "id":"29ea6814-bd21-47af-b1c4-9b935f4e9b4f",
+  "timestamp":"637721696209412821",
+  "displayName":"Open in VS2019",
+  "executablePath":"$(ExeFilePath(vs2019))",
+  "arguments":"\"$(FileOrDirPath)\"",
+  "supportedItemKind":"any",
+  "minVersion":"4",
+  "tooltipTitle":"Open in VS2019",
+  "tooltipDescription":"Open in the file or folder in Visual Studio 2019"
+}
