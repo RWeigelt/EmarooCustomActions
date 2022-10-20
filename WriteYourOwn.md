@@ -33,7 +33,7 @@ Copy/Paste
   and paste the custom action there.
 * Or you paste the custom action into a text editor, an email, etc. to share it with others. The custom action described above looks like this:  
   ```
-  §§!F5[*J,m1]zzYr^^u1xKwvI-6rj=lP}5A7qkrB|w(AO9,y3lagyKpe)efm%4SDV*gH+°wlT[|^i^Sg
-  0{HMG^JV;GvLqWf]fVqk_O9vg)MHopIIP?xmhZZy|0h9=3-6q87B$)%r2W%UDdE26W*%q2g)NVXser^1
-  P{n-gB8r5°Ny:KnO4#[q(lpwv-o6W.iH-!06EGAv,dv,%Mb6k]$0EP*,wIih;A§§
+  §§!F5[*J,m1]zzYr^^u1xKwvI-6rj=lP}5A7rIT~2OWyd7#[|.?F1QjEF°V?K-sg276xlm#s7_~C.f;O
+  E,FEFS=yc2yJq°xIo.$LqWHg$XYP$bK]3Xn5:B32EV_Zxc|,jWX=Ko)8m;XcL1XZvqeO;hu?p!-G,Tls
+  16°w!awPY:#$%x-98[BP*Ky+?KJk2Cw=Vu-J5y0j?F28:xK=UIf_u(!swLtZ2a§§
   ```
