@@ -1,4 +1,4 @@
-Custom Actions for Emaroo 4
+Custom Actions for Emaroo
 =========================
 
 A custom action for [Emaroo](https://www.roland-weigelt.de/emaroo/) calls an executable with arguments built using macros e.g. for the full path of currently selected file/directory, or just the file name, the extension, etc.
